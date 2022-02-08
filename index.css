@@ -16,3 +16,19 @@ a:link, a:visited {
   a:hover, a:active {
     background-color: red;
   }
+  h1{
+    color:blue;
+    text-align: center;
+    font-size: 100px;
+  }
+  #tartalom{
+    background-color: bisque;
+    width: 50%;
+    height: fit-content;
+    position: right;
+  }
+  header{
+    width: 100%;
+    opacity: 0.9;
+    background-color: azure;
+  }
