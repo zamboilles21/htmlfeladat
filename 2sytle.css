@@ -7,8 +7,22 @@ body{
 video{
     width: 600px;
     height: 300px;
+    float: right;
+    padding: 6px;
+    margin: 6px;
 }
 p{
     font-size: larger;
     color: maroon;
+    text-align: justify;
+    float: right;
+    width: 600px;
+    padding: 5px;
+    margin: 5px;
+
+}
+#tesok{
+    width: 600px;
+    height: 800px;
+    float:left;
 }
