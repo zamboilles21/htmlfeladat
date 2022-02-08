@@ -28,18 +28,46 @@ p{
 }
 #tartalom{
     width: 100%;
-    height: 1200px;
-    background-color: whitesmoke;
-    opacity: 0.8;
+    
+    
     margin-top: 25px;
     padding: 10px;
 }
 h1{
-    text-align: center;
+    text-align: center ;
     font-size: 50px;
+    color: aliceblue;
 }
 header{
     background-image: url('headerkep.png');
     height: 427px;
-    background-color: yellowgreen;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: right ;
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+a{
+    font-size: 25px;
+    padding: 10px;
+}
+#lablec{
+    text-align: center;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
 }
