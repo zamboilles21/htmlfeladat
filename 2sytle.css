@@ -1,4 +1,14 @@
 body{
     background-color:lightgrey;
     background-image: url('thumb-1920-111290.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+video{
+    width: 600px;
+    height: 300px;
+}
+p{
+    font-size: larger;
+    color: maroon;
 }
