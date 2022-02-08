@@ -1,4 +1,5 @@
 body{
     background-image: url('hatter.png');
+    background-repeat: no-repeat;
     background-color: lightgrey;
 }
