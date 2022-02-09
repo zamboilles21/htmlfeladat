@@ -77,3 +77,7 @@ a:hover, a:active {
     width: 200px;
     margin: 10px;
 }
+#gif{
+    width: 600px;
+    height: fit-content;
+}

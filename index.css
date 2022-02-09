@@ -1,5 +1,6 @@
 body{
     background-image: url('hatter.png');
+    background-repeat: no-repeat;
     background-color: lightgrey;
     background-repeat: no-repeat;
     background-size: cover;
@@ -29,6 +30,22 @@ a:link, a:visited {
   }
   header{
     width: 100%;
+    height: fit-content;
     opacity: 0.9;
     background-color: azure;
   }
+  #oldalkep{
+    float: right;
+    margin: 5px;
+  }
+  #oldalkep2{
+    float: right;
+    width: 250px;
+    height: fit-content;
+    margin: 5px;
+  }
+  header{
+    padding: 15px;
+    margin: 5px;
+  }
+  
