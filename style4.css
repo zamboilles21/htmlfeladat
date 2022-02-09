@@ -1,0 +1,13 @@
+img{
+    width: 50%;
+    height: 70%;
+    float: right;
+    }
+
+footer{
+    bottom: 0px;
+}
+
+body{
+    background-color: lightblue;
+}
