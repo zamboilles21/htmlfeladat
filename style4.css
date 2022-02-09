@@ -11,3 +11,8 @@ footer{
 body{
     background-color: lightblue;
 }
+
+header{
+    background-image: url("katana_head.jpg");
+    background-repeat: no-repeat;s
+}
